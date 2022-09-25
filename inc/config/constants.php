@@ -1,14 +1,14 @@
 <?php
 	// Root url for the site
-	define('ROOT_URL', 'http://43.205.114.70/IMS');
+	define('ROOT_URL', 'http://54.255.178.159/IMS');
 	
 	
 	// Database parameters
 	// Data source name
-	define('DSN', 'mysql:host=collegemgmtdb.cgiubsxpc6xe.ap-southeast-1.rds.amazonaws.com;dbname=shop_inventory');
+	define('DSN', 'mysql:host=migrationtest.cjerdsoatzri.ap-southeast-1.rds.amazonaws.com;dbname=shop_inventory');
 	
 	// Hostname
-	define('DB_HOST', 'collegemgmtdb.cgiubsxpc6xe.ap-southeast-1.rds.amazonaws.com');
+	define('DB_HOST', 'migrationtest.cjerdsoatzri.ap-southeast-1.rds.amazonaws.com');
 	
 	// DB user
 	define('DB_USER', 'admin');
