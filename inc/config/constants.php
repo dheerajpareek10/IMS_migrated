@@ -5,7 +5,7 @@
 	
 	// Database parameters
 	// Data source name
-	define('DSN', 'mysql:host=cloudtestingdb.crgya7bbq8o7.ap-southeast-1.rds.amazonaws.com;dbname=shop_inventory');
+	define('DSN', 'mysql:host=cloudtestingdb.crgya7bbq8o7.ap-southeast-1.rds.amazonaws.com;dbname=shop_inventory_migrated');
 	
 	// Hostname
 	define('DB_HOST', 'cloudtestingdb.crgya7bbq8o7.ap-southeast-1.rds.amazonaws.com');
@@ -17,5 +17,5 @@
 	define('DB_PASSWORD', 'admin123');
 	
 	// DB name
-	define('DB_NAME', 'shop_inventory');
+	define('DB_NAME', 'shop_inventory_migrated');
 ?>
